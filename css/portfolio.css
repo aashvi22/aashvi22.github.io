@@ -1,0 +1,117 @@
+/*html{
+	background: linear-gradient(to right, red , yellow);
+} */
+.parallax {
+    /* The image used */
+    background-image: url("nightsky.jpg");
+
+    /* Set a specific height */
+    min-height: 800px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+.name{
+	
+	text-align: center;
+    
+    
+    color: white;
+    font-size: 60px;
+}
+
+
+
+
+.headstrip{
+	height:100px;
+	width:100%;
+	background-color:#012e77;
+
+}
+#header{
+	text-align:center;
+	font-size:40px;
+	color:white;
+	padding-top:10px;
+
+}
+.gradient{
+	height:3500px;
+	background: linear-gradient(#012e77,#8faad6); 
+	font-size:36px;
+}
+.description{
+	
+	width:75%;
+	margin-top:50px;
+	margin-left:12.5%;
+	background-color:white;
+	opacity:0.6;
+	position:absolute;
+	
+}
+.description2{
+	
+	width:75%;
+	margin-top:850px;
+	margin-left:12.5%;
+	background-color:white;
+	opacity:0.6;
+	position:absolute;
+	
+}
+
+
+
+h1, h2{
+	font-family: 'Playfair Display', serif;
+	color:#122c56;
+	text-align:center;
+}
+p, ul{
+	font-family: 'Dosis', sans-serif;
+	color:indigo;
+}
+ul{
+	color:#122c56;
+	padding-left:100px;
+}
+h1 , p{
+	padding:40px;
+}
+
+#robot{
+	height:auto;
+	width:500px;
+	margin-left:auto;
+}
+.CS{
+	margin:auto;
+	padding-top:1200px;
+	width:50%;
+	height:600px;
+}
+.d-block{
+	height:750px;
+	
+}
+
+.CS p{
+	font-size:24px;
+	font-family:arial;
+	color:#050099;
+	background-color:white;
+	opacity:0.6;
+}
+.CS h5{
+	font-size:36px;
+	font-family:Times New Roman;
+	color:#050099;
+	background-color:white;
+	opacity:0.6;
+}
