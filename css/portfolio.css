@@ -3,7 +3,7 @@
 } */
 .parallax {
     /* The image used */
-    background-image: url("nightsky.jpg");
+    background-image: url("../nightsky.jpg");
 
     /* Set a specific height */
     min-height: 800px; 
