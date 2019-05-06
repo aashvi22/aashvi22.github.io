@@ -3,7 +3,7 @@
 } */
 .parallax {
     /* The image used */
-    background-image: url(""); /*../nightsky.jpg*/
+    background-image: url("../nightsky.jpg"); 
 
     /* Set a specific height */
     min-height: 800px; 
@@ -65,14 +65,14 @@
 	width:75%;
 	margin-top:850px;
 	margin-left:12.5%;
-	background-color:pink;
+	background-color:white;
 	opacity:0.6;
 	position:absolute;
 	
 }
 
 
-
+pink
 h1, h2{
 	font-family: 'Playfair Display', serif;
 	color:#122c56;
@@ -97,8 +97,8 @@ h1 , p{
 }
 .CS{
 	margin:auto;
-	padding-top:2000px;
-	width:100%;
+	padding-top:3000px;
+	width:50%;
 	height:600px;
 }
 .d-block{
