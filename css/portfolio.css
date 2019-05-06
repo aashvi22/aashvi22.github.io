@@ -28,6 +28,12 @@
     font-size: 60px;
 }
 
+#myPic{
+	height: 500px;
+	width: 400px;
+	margin: auto;
+}
+
 
 
 
@@ -72,7 +78,7 @@
 }
 
 
-pink
+/*pink*/
 h1, h2{
 	font-family: 'Playfair Display', serif;
 	color:#122c56;
