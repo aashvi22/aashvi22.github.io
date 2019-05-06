@@ -29,9 +29,11 @@
 }
 
 #myPic{
-	height: 500px;
+	height: 550px;
 	width: 400px;
 	margin: auto;
+	margin-left:32%;
+	opacity: 1;
 }
 
 
@@ -52,7 +54,7 @@
 
 }
 .gradient{
-	height:4000px;
+	height:7000px;
 	background: linear-gradient(#012e77,#8faad6); 
 	font-size:36px;
 }
@@ -69,7 +71,7 @@
 .description2{
 	
 	width:75%;
-	margin-top:850px;
+	margin-top:720px;
 	margin-left:12.5%;
 	background-color:white;
 	opacity:0.6;
@@ -103,8 +105,10 @@ h1 , p{
 }
 .CS{
 	margin:auto;
-	padding-top:3000px;
-	width:50%;
+	margin-top:100px;
+	margin-bottom:100px;
+	padding-top:4100px;
+	width:53%;
 	height:600px;
 }
 .d-block{
