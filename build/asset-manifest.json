@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.99b19044.css",
+    "main.js": "/static/js/main.0ee6c7df.js",
+    "static/media/profile.png": "/static/media/profile.51f02af185b9b4c86fd6.png",
+    "static/media/asfalisLogo.png": "/static/media/asfalisLogo.9ef8b209e269dd243bcb.png",
+    "static/media/waterfall.heic": "/static/media/waterfall.3179c62efb11afbde9a1.heic",
+    "static/media/eggclicker.png": "/static/media/eggclicker.7951d2521af519e19cf8.png",
+    "static/media/pickuplines.png": "/static/media/pickuplines.e7153c1955aa58fe6298.png",
+    "static/media/aashvi.webp": "/static/media/aashvi.b8330a839044e32edc6a.webp",
+    "static/media/Edukos.png": "/static/media/Edukos.3de1b342fab16dc7cb06.png",
+    "static/media/segmentation.png": "/static/media/segmentation.cf866ba01fe8edeb687f.png",
+    "static/media/restaurantMap.jpg": "/static/media/restaurantMap.f0fe69f558a1e273a542.jpg",
+    "static/media/secc.png": "/static/media/secc.7b83e2541eb099510aaf.png",
+    "static/media/MazeRunnerPicture.png": "/static/media/MazeRunnerPicture.87775857c94099906018.png",
+    "static/media/earth.jpeg": "/static/media/earth.b44dffb8c707ef077080.jpeg",
+    "static/media/gps.png": "/static/media/gps.c4b463efbf1bdf477e69.png",
+    "static/media/lifestyle.jpeg": "/static/media/lifestyle.9762cda997468b8ac592.jpeg",
+    "static/media/socialnetwork.jpeg": "/static/media/socialnetwork.ce8e10c4a3e9f7630480.jpeg",
+    "static/media/minesweeper.png": "/static/media/minesweeper.05eb502b3a30b53f5653.png",
+    "static/media/linkedinpfp.jpeg": "/static/media/linkedinpfp.f9004626688c45b9c911.jpeg",
+    "static/media/pennos.png": "/static/media/pennos.fa66b7574812997873a6.png",
+    "static/media/sms.png": "/static/media/sms.4603cc555576801b7320.png",
+    "static/media/weatherapp.jpg": "/static/media/weatherapp.d62bc713b39891dd2f94.jpg",
+    "static/media/calculator.png": "/static/media/calculator.2b8bed3acc34167686dc.png",
+    "index.html": "/index.html",
+    "main.99b19044.css.map": "/static/css/main.99b19044.css.map",
+    "main.0ee6c7df.js.map": "/static/js/main.0ee6c7df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99b19044.css",
+    "static/js/main.0ee6c7df.js"
+  ]
+}
